@@ -4,11 +4,13 @@
 
 ##
 <p align="center">
-  <a href="https://github.com/LoveYou0011/Toretto">
+  <a href="https://github.com/LoveYou0011/QueenLydia">
     <img src="https://komarev.com/ghpvc/?username=LoveYou0011&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
 
+<h7 align="left">Place- Alappuzha,Kerala,India</h7>
+
   </a>
-  <a href="https://github.com/LoveYou0011/Toretto?tab=stars">
+  <a href="https://github.com/LoveYou0011/Lydia?tab=stars">
     <img src="https://img.shields.io/github/stars/LoveYou0011?color=ff69b4&label=Stars&style=plastic">
 
   </a>

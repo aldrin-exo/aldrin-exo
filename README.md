@@ -1,6 +1,6 @@
 <h1 align="centre">I'm LoveYou0011🔨👮🏻‍♂️</h1>
 <h4 align="center">I am a simple developer. Not like Dennis Ritchie..</h3>
-<h7 align="left">Moreover, I am the founder of the Toretto whatsapp user bot project. <br>Toretto Project 🚶‍♂️</h7>
+<h7 align="left">Moreover, I am the founder of the QueenLydia whatsapp user bot project. <br>QueenLydia Project 🚶‍♂️</h7>
 
 ##
 <p align="center">
@@ -19,7 +19,7 @@
 </p>
 
 
-- 🔭 I’m currently working on [Toretto Project](https://github.com/LoveYou0011/Toretto)
+- 🔭 I’m currently working on [QueenLydia Project](https://github.com/LoveYou0011/Toretto)
 
 - 🌱 I’m currently learning **Java, Node.js, HTML, Python**
 

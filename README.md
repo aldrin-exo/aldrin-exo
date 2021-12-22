@@ -1,11 +1,38 @@
-<h1 align="centre">I'm LoveYou0011🔨👮🏻‍♂️</h1>
+<h2 align="center">Hi 👋, I'm Aldrin</h1>
+
+![My card name](https://cardivo.vercel.app/api?name=LoveYou0011%20-%20&description=Hi,%20Welcome%20To%20My%20Profile&image=https://i.imgur.com/FN6AbHO.jpeg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23e4f2f6&instagram=monk_ser0011&github=LoveYou0011&)
+</p>
+</p>
+<h3 align="center">A developer from India</h3>
+<img align="center" alt="Coding" width="500" src="https://media2.giphy.com/media/qFw6AsQptpuzQ33Fjd/giphy.gif?cid=6c09b952d65a849d347feeab83b62850459c4e66cf9f4569&rid=giphy.gif&ct=g">
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LoveYou0011&label=Profile%20views&color=0e75b6&style=flat" alt="insanebwoi" /> </p>
+
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=LoveYou0011)
+
+</details>
+
+<details>
+    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/LoveYou0011?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul)
+
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=LoveYou0011&theme=highcontrast&repo=Toretto)](https://github.com/LoveYou0011/Toretto)
+
+</details>
+
+
 <h4 align="center">I am a simple developer. Not like Dennis Ritchie..</h3>
-<h7 align="left">Moreover, I am the founder of the QueenLydia whatsapp user bot project. <br>QueenLydia Project 🚶‍♂️</h7>
+<h7 align="left">Moreover, I am the founder of the QueenLydia whatsapp user bot project.🚶‍♂️
 
 ##
 <p align="center">
   <a href="https://github.com/LoveYou0011/QueenLydia">
-    <img src="https://komarev.com/ghpvc/?username=LoveYou0011&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
+ 
 
 <h7 align="left">Place- Alappuzha,Kerala,India</h7>
 
@@ -27,8 +54,6 @@
 
 - 👨‍💻 All of my projects are available at > [My Git](https://github.com/LoveYou0011/) <
 
-- 📫 How to reach me > [Whatsapp](https://wa.me/917909139146) <
-
 - 💫 **I am only a beginner developer.. 🌆**
 
 
@@ -41,21 +66,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LoveYou0011&theme=highcontrast" alt="LoveYou0011" /></p>
 </details>
-
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=LoveYou0011)
-
-</details>
-
-<details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
-
-![Metrics](https://metrics.lecoq.io/LoveYou0011?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul)
-
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=LoveYou0011&theme=highcontrast&repo=Toretto)](https://github.com/LoveYou0011/Toretto)
-
-</details>
-
 

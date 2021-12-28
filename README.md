@@ -5,7 +5,7 @@
 <img align="center" alt="Coding" width="500" src="https://media2.giphy.com/media/qFw6AsQptpuzQ33Fjd/giphy.gif?cid=6c09b952d65a849d347feeab83b62850459c4e66cf9f4569&rid=giphy.gif&ct=g">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LoveYou0011&label=Profile%20views&color=0e75b6&style=flat" alt="insanebwoi" /> </p>
+ ![Profile views](https://gpvc.arturio.dev/quiec)
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>

@@ -1,9 +1,7 @@
-<h2 align="center">Hi 👋, I'm Aldrin</h1>
-
-![My card name](https://cardivo.vercel.app/api?name=LoveYou0011%20-%20&description=Hi,%20Welcome%20To%20My%20Profile&image=https://i.imgur.com/FN6AbHO.jpeg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23e4f2f6&instagram=monk_ser0011&github=LoveYou0011&)
+![My card name](https://cardivo.vercel.app/api?name=LoveYou0011%20&description=Hi,%20Welcome%20To%20My%20Profile&image=https://i.imgur.com/tCKpvyS.png?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23e4f2f6&instagram=monk_ser0011&github=LoveYou0011&)
 </p>
 </p>
-<h3 align="center">A developer from India</h3>
+<h3 align="center"></h3>
 <img align="center" alt="Coding" width="500" src="https://media2.giphy.com/media/qFw6AsQptpuzQ33Fjd/giphy.gif?cid=6c09b952d65a849d347feeab83b62850459c4e66cf9f4569&rid=giphy.gif&ct=g">
 
 
@@ -26,15 +24,11 @@
 </details>
 
 
-<h4 align="center">I am a simple developer. Not like Dennis Ritchie..</h3>
-<h7 align="left">Moreover, I am the founder of the QueenLydia whatsapp user bot project.🚶‍♂️
+<h4 align="center">I am a simple developer. Not like Dennis Ritchie..
+<h4 align="center">
 
 ##
-<p align="center">
-  <a href="https://github.com/LoveYou0011/QueenLydia">
- 
 
-<h7 align="left">Place- Alappuzha,Kerala,India</h7>
 
   </a>
   <a href="https://github.com/LoveYou0011/Lydia?tab=stars">

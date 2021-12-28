@@ -30,25 +30,18 @@
 ##
 
 
-  </a>
-  <a href="https://github.com/LoveYou0011/Lydia?tab=stars">
-    <img src="https://img.shields.io/github/stars/LoveYou0011?color=ff69b4&label=Stars&style=plastic">
-
-  </a>
-  <a href="https://github.com/farhan-dqz?tab=followers">
-    <img src="https://img.shields.io/github/followers/LoveYou0011?color=ff69b4&label=Followers&style=plastic">
-
-  </a>
-</p>
-
-
-- 🔭 I’m currently working on [QueenLydia Project](https://github.com/LoveYou0011/Toretto)
-
+- 🔭 I’m currently working on 🙄❓idk
 - 🌱 I’m currently learning **Java, Node.js, HTML, Python**
 
 - 👨‍💻 All of my projects are available at > [My Git](https://github.com/LoveYou0011/) <
 
 - 💫 **I am only a beginner developer.. 🌆**
+
+</details>
+<div align="center">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=ar5xr05io7p2lrvlzz8cgpz7f&cover_image=false)" />
+  </div>
+
 
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LoveYou0011&show_icons=true&locale=en&layout=compact" alt="insanebwoi" /></p>

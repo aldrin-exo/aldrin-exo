@@ -71,10 +71,16 @@ const Aldrin = {
 
 - 💫 **I am only a beginner developer.. 🌆**
 
+</br></br>
+
+<h2>:notes: Music <a</a></h2>
 </details>
 <div align="center">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=ar5xr05io7p2lrvlzz8cgpz7f&cover_image=false)" />
   </div>
+</h2>
+
+
 
 
 </p>
@@ -83,6 +89,14 @@ const Aldrin = {
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LoveYou0011&show_icons=true&locale=en" alt="insanebwoi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LoveYou0011&" alt="LoveYou0011" /></p>
+
+</details>
+<h2>:zany_face: Joke of the day</h2>
+<details>
+<summary>See joke</summary>
+    <a href="https://github.com/ABSphreak/readme-jokes">
+        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+    </a>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">

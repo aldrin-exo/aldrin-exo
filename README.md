@@ -97,6 +97,7 @@ const Aldrin = {
     <a href="https://github.com/ABSphreak/readme-jokes">
         <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
     </a>
+</details> 
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">

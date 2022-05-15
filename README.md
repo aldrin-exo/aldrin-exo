@@ -135,7 +135,7 @@ const Aldrin = {
 <summary>Profile visitors</summary>
 <p align="center">:round_pushpin: Profile visitors</p>
 <div align="center">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/Carol42/count.svg">
+    <img alt="visitors counter" src="https://gpvc.arturio.dev/quiec">
 </div>
 </details>
 

@@ -77,16 +77,18 @@ const Aldrin = {
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LoveYou0011&show_icons=true&locale=en" alt="insanebwoi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LoveYou0011&" alt="LoveYou0011" /></p>
-
+<h2>:thought_balloon: Quote of the day</h2>
+<details open>
+<summary>See quote</summary>
+    <a href="https://github.com/piyushsuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
+    </a>
 </details>
 <h2>:zany_face: Joke of the day</h2>
 <details>
 <summary>See joke</summary>
     <a href="https://github.com/ABSphreak/readme-jokes">
         <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-    </a>
-</details> 
-
     </a>
 </details>
 <h2>:octocat: My GitHub Stats</h2>

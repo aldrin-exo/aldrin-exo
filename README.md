@@ -95,10 +95,10 @@ const Aldrin = {
 <details>
 <summary>General Stats</summary>
 <div>
-    <img alt="github repos" src="https://badges.pufler.dev/repos/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE">
-    <img alt="commits today" src="https://badges.pufler.dev/commits/daily/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE">
-    <img alt="commits this week" src="https://badges.pufler.dev/commits/weekly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE">
-    <img alt="commits this month" src="https://badges.pufler.dev/commits/monthly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE">
+    <img alt="github repos" src="https://badges.pufler.dev/repos/LoveYou0011?color=181717&style=for-the-badge&labelColor=7E3ACE">
+    <img alt="commits today" src="https://badges.pufler.dev/commits/daily/LoveYou0011?color=181717&style=for-the-badge&labelColor=7E3ACE">
+    <img alt="commits this week" src="https://badges.pufler.dev/commits/weekly/LoveYou0011?color=181717&style=for-the-badge&labelColor=7E3ACE">
+    <img alt="commits this month" src="https://badges.pufler.dev/commits/monthly/LoveYou0011?color=181717&style=for-the-badge&labelColor=7E3ACE">
 </div>
 <div alig="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -122,13 +122,13 @@ const Aldrin = {
 <details>
 <summary>Contribution Graph</summary>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="github activity graph" src="https://activity-graph.herokuapp.com/graph?username=Carol42&area=true&hide_border=true&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
+    <img alt="github activity graph" src="https://activity-graph.herokuapp.com/graph?username=LoveYou0011&area=true&hide_border=true&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
 </a>
 </details>
 <details>
 <summary>Trophies</summary>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="github trophies" src="https://github-profile-trophy.vercel.app/?username=Carol42&theme=darkhub&no-frame=true&column=7">
+    <img alt="github trophies" src="https://github-profile-trophy.vercel.app/?username=LoveYou0011&theme=darkhub&no-frame=true&column=7">
 </a>
 </details>
 <details>
@@ -169,3 +169,17 @@ const Aldrin = {
 <code><img title="GIMP" alt="GNU Image Manipulation Program - GIMP" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" /></code>
 <code><img title="Linux" alt="linux" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
 </br></br>
+
+<img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
+
+<h2>:book: Guestbook</h2>
+<p>Leave a cool message for me or just say you passed by <a href="https://github.com/LoveYou0011/LoveYou0011/issues/new?template=guestbook-entry.md">here</a>!</p>
+
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" >
+    </a>
+</div>
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
+<div align="center" ><img alt="" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/footer.png"></div>

@@ -7,7 +7,7 @@
 
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Aldrin;Plus+One+Student;Indian+Front-end+Dev;Kpop+Lover+😼💜;function+findQuestion(42)" alt="I'm Aldrin , Plus One Student , Indian Front-end Dev , Kpop Lover 😼💜 , function findQuestion(42)"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Hey , function findQuestion(42)"></a>
 </div>
 
 <table align="right">
